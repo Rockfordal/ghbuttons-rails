@@ -7,7 +7,7 @@ im just attempting to have the class names more compatible with twitter
 goal:
 link_to 'New', new_stuff_path, class: 'btn'
 
-
+-
 
 Github-style buttons for the Rails Asset Pipeline.
 

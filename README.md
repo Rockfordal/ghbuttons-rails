@@ -1,9 +1,13 @@
-# This is my first fork
-# i want to have the class names more compatible with twitter, so that it gets less messy to work with multiple projects
-# because i dont know if there exist any easy way to extract out just the twitter bootstrap buttons
-
-
 # ghbuttons-rails
+
+This is my first fork
+since i dont know if there exist any easy way to extract out just the twitter bootstrap buttons
+im just attempting to have the class names more compatible with twitter
+
+goal:
+link_to 'New', new_stuff_path, class: 'btn'
+
+
 
 Github-style buttons for the Rails Asset Pipeline.
 
